@@ -1,0 +1,530 @@
+Simulation begins...
+starting simulation.
+Time 0:Part Arrival of P0
+Time 1:Part Arrival of P0
+Time 2:Part Arrival of P0
+Time 3:Part Arrival of P0
+Time 4:Part Arrival of P0
+Time 5:Part Arrival of P0
+Time 6:Part Arrival of P0
+Time 7:Part Arrival of P0
+Time 8:Part Arrival of P0
+Time 9:Part Arrival of P0
+Time 10:Part Arrival of P0
+Time 11:Part Arrival of P0
+Time 12:Part Arrival of P0
+Time 13:Part Arrival of P0
+Time 14:Part Arrival of P0
+Time 15:Part Arrival of P0
+Time 16:Part Arrival of P0
+Time 17:Part Arrival of P0
+Time 18:Part Arrival of P0
+Time 19:Part Arrival of P0
+Time 20:Part Arrival of P0
+Time 21:Part Arrival of P0
+Time 22:Part Arrival of P0
+Time 23:Part Arrival of P0
+Time 24:Part Arrival of P0
+Time 25:Part Arrival of P0
+Time 26:Part Arrival of P0
+Time 27:Part Arrival of P0
+Time 28:Part Arrival of P0
+Time 29:Part Arrival of P0
+Time 30:Part Arrival of P0
+Time 31:Part Arrival of P0
+Time 32:Part Arrival of P0
+Time 33:Part Arrival of P0
+Time 34:Part Arrival of P0
+Time 35:Part Arrival of P0
+Time 36:Part Arrival of P0
+Time 37:Part Arrival of P0
+Time 38:Part Arrival of P0
+Time 39:Part Arrival of P0
+Time 40:Part Arrival of P0
+Time 41:Part Arrival of P0
+Time 42:Part Arrival of P0
+Time 43:Part Arrival of P0
+Time 44:Part Arrival of P0
+Time 45:Part Arrival of P0
+Time 46:Part Arrival of P0
+Time 47:Part Arrival of P0
+Time 48:Part Arrival of P0
+Time 49:Part Arrival of P0
+Time 50:Part Arrival of P1
+Time 50:Start Assembly At Main station
+Time 50:Part Arrival of P2
+Time 50:Start Assembly At Finishing station
+Time 55:End Assembly At Finishing station
+Time 55:Product Arrival
+Time 51:Part Arrival of P2
+Time 51:Start Assembly At Finishing station
+Time 56:End Assembly At Finishing station
+Time 56:Product Arrival
+Time 51:Part Arrival of P1
+Time 51:Start Assembly At Main station
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 100:Part Arrival of P2
+Time 100:Start Assembly At Finishing station
+Time 105:End Assembly At Finishing station
+Time 105:Product Arrival
+Time 200:Part Arrival of P1
+Time 200:Start Assembly At Main station
+Time 201:Part Arrival of P1
+Time 201:Start Assembly At Main station
+Time 202:Part Arrival of P1
+Time 202:Start Assembly At Main station
+Time 203:Part Arrival of P1
+Time 203:Start Assembly At Main station
+Time 204:Part Arrival of P1
+Time 204:Start Assembly At Main station
+Time 205:Part Arrival of P1
+Time 205:Start Assembly At Main station
+Time 206:Part Arrival of P1
+Time 206:Start Assembly At Main station
+Time 207:Part Arrival of P1
+Time 207:Start Assembly At Main station
+Time 208:Part Arrival of P1
+Time 208:Start Assembly At Main station
+Time 209:Part Arrival of P1
+Time 209:Start Assembly At Main station
+Time 210:Part Arrival of P1
+Time 210:Start Assembly At Main station
+Time 211:Part Arrival of P1
+Time 211:Start Assembly At Main station
+Time 212:Part Arrival of P1
+Time 212:Start Assembly At Main station
+Time 213:Part Arrival of P1
+Time 213:Start Assembly At Main station
+Time 214:Part Arrival of P1
+Time 214:Start Assembly At Main station
+Time 215:Part Arrival of P1
+Time 215:Start Assembly At Main station
+Time 216:Part Arrival of P1
+Time 216:Start Assembly At Main station
+Time 217:Part Arrival of P1
+Time 217:Start Assembly At Main station
+Time 218:Part Arrival of P1
+Time 218:Start Assembly At Main station
+Time 219:Part Arrival of P1
+Time 219:Start Assembly At Main station
+Time 220:Part Arrival of P1
+Time 220:Start Assembly At Main station
+Time 221:Part Arrival of P1
+Time 221:Start Assembly At Main station
+Time 222:Part Arrival of P1
+Time 222:Start Assembly At Main station
+Time 223:Part Arrival of P1
+Time 223:Start Assembly At Main station
+Time 224:Part Arrival of P1
+Time 224:Start Assembly At Main station
+Time 225:Part Arrival of P1
+Time 225:Start Assembly At Main station
+Time 226:Part Arrival of P1
+Time 226:Start Assembly At Main station
+Time 227:Part Arrival of P1
+Time 227:Start Assembly At Main station
+Time 228:Part Arrival of P1
+Time 228:Start Assembly At Main station
+Time 229:Part Arrival of P1
+Time 229:Start Assembly At Main station
+Time 230:Part Arrival of P1
+Time 230:Start Assembly At Main station
+Time 231:Part Arrival of P1
+Time 231:Start Assembly At Main station
+Time 232:Part Arrival of P1
+Time 232:Start Assembly At Main station
+Time 233:Part Arrival of P1
+Time 233:Start Assembly At Main station
+Time 234:Part Arrival of P1
+Time 234:Start Assembly At Main station
+Time 235:Part Arrival of P1
+Time 235:Start Assembly At Main station
+Time 236:Part Arrival of P1
+Time 236:Start Assembly At Main station
+Time 237:Part Arrival of P1
+Time 237:Start Assembly At Main station
+Time 238:Part Arrival of P1
+Time 238:Start Assembly At Main station
+Time 239:Part Arrival of P1
+Time 239:Start Assembly At Main station
+Time 500:Part Arrival of P1
+Time 500:Start Assembly At Main station
+Time 505:Part Arrival of P1
+Time 505:Start Assembly At Main station
+Time 510:Part Arrival of P1
+Time 510:Start Assembly At Main station
+Time 513:Part Arrival of P1
+Time 513:Start Assembly At Main station
+Time 520:Part Arrival of P2
+Time 520:Start Assembly At Finishing station
+Time 525:End Assembly At Finishing station
+Time 525:Product Arrival
+Time 525:Part Arrival of P2
+Time 525:Start Assembly At Finishing station
+Time 530:End Assembly At Finishing station
+Time 530:Product Arrival
+Time 533:Part Arrival of P2
+Time 533:Start Assembly At Finishing station
+Time 538:End Assembly At Finishing station
+Time 538:Product Arrival
+Time 541:Part Arrival of P1
+Time 541:Start Assembly At Main station
+Time 546:Part Arrival of P2
+Time 546:Start Assembly At Finishing station
+Time 551:End Assembly At Finishing station
+Time 551:Product Arrival
+Time 552:Part Arrival of P0
+Time 554:Part Arrival of P0
+Time 555:Part Arrival of P1
+Time 555:Start Assembly At Main station
+Time 562:Part Arrival of P2
+Time 562:Start Assembly At Finishing station
+Time 567:End Assembly At Finishing station
+Time 567:Product Arrival
+Time 567:Part Arrival of P0
+Time 568:Part Arrival of P0
+Time 573:Part Arrival of P0
+Time 578:Part Arrival of P2
+Time 578:Start Assembly At Finishing station
+Time 583:End Assembly At Finishing station
+Time 583:Product Arrival
+Time 586:Part Arrival of P0
+Time 587:Part Arrival of P2
+Time 587:Start Assembly At Finishing station
+Time 592:End Assembly At Finishing station
+Time 592:Product Arrival
+Time 591:Part Arrival of P1
+Time 591:Start Assembly At Main station
+Time 594:Part Arrival of P2
+Time 594:Start Assembly At Finishing station
+Time 599:End Assembly At Finishing station
+Time 599:Product Arrival
+Time 597:Part Arrival of P2
+Time 597:Start Assembly At Finishing station
+Time 602:End Assembly At Finishing station
+Time 602:Product Arrival
+Time 602:Part Arrival of P2
+Time 602:Start Assembly At Finishing station
+Time 607:End Assembly At Finishing station
+Time 607:Product Arrival
+Time 606:Part Arrival of P2
+Time 606:Start Assembly At Finishing station
+Time 611:End Assembly At Finishing station
+Time 611:Product Arrival
+Time 607:Part Arrival of P1
+Time 607:Start Assembly At Main station
+Time 610:Part Arrival of P0
+Time 615:Part Arrival of P1
+Time 615:Start Assembly At Main station
+Time 619:Part Arrival of P0
+Time 622:Part Arrival of P1
+Time 622:Start Assembly At Main station
+Time 628:Part Arrival of P2
+Time 628:Start Assembly At Finishing station
+Time 633:End Assembly At Finishing station
+Time 633:Product Arrival
+Time 631:Part Arrival of P1
+Time 631:Start Assembly At Main station
+Time 636:Part Arrival of P2
+Time 636:Start Assembly At Finishing station
+Time 641:End Assembly At Finishing station
+Time 641:Product Arrival
+Time 640:Part Arrival of P0
+Time 644:Part Arrival of P1
+Time 644:Start Assembly At Main station
+Time 649:Part Arrival of P0
+Time 652:Part Arrival of P1
+Time 652:Start Assembly At Main station
+Time 660:Part Arrival of P1
+Time 660:Start Assembly At Main station
+Time 665:Part Arrival of P0
+Time 672:Part Arrival of P2
+Time 672:Start Assembly At Finishing station
+Time 677:End Assembly At Finishing station
+Time 677:Product Arrival
+Time 676:Part Arrival of P2
+Time 676:Start Assembly At Finishing station
+Time 681:End Assembly At Finishing station
+Time 681:Product Arrival
+Time 678:Part Arrival of P0
+Time 679:Part Arrival of P2
+Time 679:Start Assembly At Finishing station
+Time 684:End Assembly At Finishing station
+Time 684:Product Arrival
+Time 682:Part Arrival of P0
+Time 686:Part Arrival of P2
+Time 686:Start Assembly At Finishing station
+Time 691:End Assembly At Finishing station
+Time 691:Product Arrival
+Time 692:Part Arrival of P0
+Time 694:Part Arrival of P1
+Time 694:Start Assembly At Main station
+Time 698:Part Arrival of P1
+Time 698:Start Assembly At Main station
+Time 702:Part Arrival of P0
+Time 708:Part Arrival of P2
+Time 708:Start Assembly At Finishing station
+Time 713:End Assembly At Finishing station
+Time 713:Product Arrival
+Time 711:Part Arrival of P0
+Time 714:Part Arrival of P1
+Time 714:Start Assembly At Main station
+Time 721:Part Arrival of P1
+Time 721:Start Assembly At Main station
+Time 726:Part Arrival of P0
+Time 734:Part Arrival of P2
+Time 734:Start Assembly At Finishing station
+Time 739:End Assembly At Finishing station
+Time 739:Product Arrival
+Time 738:Part Arrival of P1
+Time 738:Start Assembly At Main station
+Time 742:Part Arrival of P2
+Time 742:Start Assembly At Finishing station
+Time 747:End Assembly At Finishing station
+Time 747:Product Arrival
+Time 748:Part Arrival of P2
+Time 748:Start Assembly At Finishing station
+Time 753:End Assembly At Finishing station
+Time 753:Product Arrival
+Time 756:Part Arrival of P0
+Time 762:Part Arrival of P0
+Time 770:Part Arrival of P1
+Time 770:Start Assembly At Main station
+Time 772:Part Arrival of P0
+Time 777:Part Arrival of P0
+Time 778:Part Arrival of P0
+Time 783:Part Arrival of P0
+Time 784:Part Arrival of P2
+Time 784:Start Assembly At Finishing station
+Time 789:End Assembly At Finishing station
+Time 789:Product Arrival
+Time 785:Part Arrival of P1
+Time 785:Start Assembly At Main station
+Time 788:Part Arrival of P0
+Time 794:Part Arrival of P2
+Time 794:Start Assembly At Finishing station
+Time 799:End Assembly At Finishing station
+Time 799:Product Arrival
+Time 802:Part Arrival of P1
+Time 802:Start Assembly At Main station
+Time 810:Part Arrival of P0
+Time 812:Part Arrival of P0
+Time 818:Part Arrival of P2
+Time 818:Start Assembly At Finishing station
+Time 823:End Assembly At Finishing station
+Time 823:Product Arrival
+Time 822:Part Arrival of P0
+Time 829:Part Arrival of P1
+Time 829:Start Assembly At Main station
+Time 836:Part Arrival of P2
+Time 836:Start Assembly At Finishing station
+Time 841:End Assembly At Finishing station
+Time 841:Product Arrival
+Time 840:Part Arrival of P2
+Time 840:Start Assembly At Finishing station
+Time 845:End Assembly At Finishing station
+Time 845:Product Arrival
+Time 846:Part Arrival of P2
+Time 846:Start Assembly At Finishing station
+Time 851:End Assembly At Finishing station
+Time 851:Product Arrival
+Time 850:Part Arrival of P1
+Time 850:Start Assembly At Main station
+Time 857:Part Arrival of P2
+Time 857:Start Assembly At Finishing station
+Time 862:End Assembly At Finishing station
+Time 862:Product Arrival
+Time 859:Part Arrival of P0
+Time 866:Part Arrival of P1
+Time 866:Start Assembly At Main station
+Time 871:Part Arrival of P0
+Time 875:Part Arrival of P0
+Time 880:Part Arrival of P2
+Time 880:Start Assembly At Finishing station
+Time 885:End Assembly At Finishing station
+Time 885:Product Arrival
+Time 883:Part Arrival of P0
+Time 890:Part Arrival of P2
+Time 890:Start Assembly At Finishing station
+Time 895:End Assembly At Finishing station
+Time 895:Product Arrival
+Time 895:Part Arrival of P0
+Time 899:Part Arrival of P2
+Time 899:Start Assembly At Finishing station
+Time 904:End Assembly At Finishing station
+Time 904:Product Arrival
+Time 903:Part Arrival of P1
+Time 903:Start Assembly At Main station
+Time 908:Part Arrival of P1
+Time 908:Start Assembly At Main station
+Time 1000:Part Arrival of P1
+Time 1000:Start Assembly At Main station
+Time 0:Part Arrival of P0
+
+...All Assembly complete.  Final Summary:
+
+
+
+The number of items that have been completely assembled is : 73
+The avearge time to complerely build a product is 367
+The number of parts P0 that are left in queue is : 13
+The number of parts P1 that are left in queue is : 0
+The number of parts P2 that are left in queue is : 0
+The number of partialy assembled products that are left in the queue is : 12
+
+End of processing.
